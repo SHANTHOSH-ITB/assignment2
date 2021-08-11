@@ -1,0 +1,32 @@
+/* img{
+    height: 100px;
+    width:  100px;
+    border:red solid 6px;
+    padding: 30px;
+    background-color: blue;
+    border: yellow dotted 4px;
+    border-radius: 40%;
+} */
+#rdx{
+    height: 500px;
+    width:  500px;
+    padding: 10px;
+    background-color: blue;
+    border: yellow seashell 15px;
+    margin-left: auto ;
+    margin-right: auto;
+    display:block ;
+    border-radius: 40%;
+}
+
+#nkdon{
+    height: 500px;
+    width:  500px;
+    border:rgb(0, 255, 115) solid 20px;
+    margin-left: auto ;
+    margin-right: auto;
+    display:block ;
+    padding: 10px;
+}
+
+
